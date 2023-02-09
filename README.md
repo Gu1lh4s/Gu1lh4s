@@ -2,7 +2,7 @@
 
 
 - 🎓 I'm currentely studing at Escola Secundaria De Gago Coutinho 
-- 🔭 I'm currently trying to work with FrontEnd
+- 🔭 I'm currently trying to work with Front-End
 - 🤓🐱‍👤 I'm currently learning JavaScript
 
 
