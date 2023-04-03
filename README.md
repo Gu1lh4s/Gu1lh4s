@@ -2,8 +2,8 @@
 
 
 - 🎓 I'm currentely studing at Escola Secundaria De Gago Coutinho 
-- 🔭 I'm currently trying to work with Front-End
-- 🤓🐱‍👤 I'm currently learning JavaScript
+- 🔭 Trying to work with Front-End
+- 🤓🐱‍👤 Larning JavaScript
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gu1lh4s&show_icons=true&theme=transparent)
