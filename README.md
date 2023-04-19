@@ -3,7 +3,7 @@
 
 - 🎓 I'm currentely studing at Escola Secundaria De Gago Coutinho 
 - 🔭 Trying to work with Front-End
-- 🤓🐱‍👤 Larning JavaScript
+- 🤓🐱‍👤 Learning JavaScript
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gu1lh4s&show_icons=true&theme=transparent)
